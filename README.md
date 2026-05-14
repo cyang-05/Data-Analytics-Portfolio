@@ -1,2 +1,3 @@
-# Data-Analytics-Portfolio
-Portfolio for data analytics projects
+# Chiashi Yang - Data Analyst Portfolio
+
+## About
